@@ -1,5 +1,7 @@
 **OpenCore EFI made for Asus X505Za**
 
+![Screenshot 2023-09-24 at 16 26 12](https://github.com/ronardnx/hackintosh_asus_x505za/assets/23416091/f4b51fde-e4b7-40c7-8c28-abdaddff339e)
+
 This EFI is especially made for ASUS X505ZA, working with macOS Ventura+.
 
 **Working :**
